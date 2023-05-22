@@ -1,0 +1,8 @@
+HERE ARE THE SCRIPTS AND DATA USED IN THE ARTICLE:
+"Interplay between VSD, pore and membrane lipids in electromechanical coupling in HCN channels"
+Elbahnsi, Ahmad; Cowgill, John; Burtscher, Verena; Wedemann, Linda; Zeckey, Luise; Chanda, Baron; Delemotte, Lucie
+
+For each Figure in the paper the data and scripts for making the plots were provided in a folder with the name of the Figure. As supplementary figures are related to a main figure, their are also located in the folder of the main figure. 
+ 
+Contact data were calculated using VLDM, an updated and non published version of the original program VLDP (developed by Esque et al.)
+Data extracted by VLDM are provided and R scripts used for making figures are provided. However VLDM itsel is not provided, as well as its extraction tools.   
